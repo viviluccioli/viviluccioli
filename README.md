@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Data Scientist | Statistician 
+  Data Scientist | Statistician | 
 </p>
 
 ## 🧑‍🎓 About Me
@@ -38,6 +38,7 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 
 - 💬 Computational linguistics and NLP for translation
 - 📖 Machine learning
+- 🗺️ GIS
 - 📊 Interactive data visualization
 - 🧠 Social epidemiology and global health equity
 - 🌎 Human trafficking research and surveillance
