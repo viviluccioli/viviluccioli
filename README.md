@@ -17,10 +17,13 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 
 ### 🎓 Education
 **Georgetown University**, 2024-2026
+
 M.S. Data Science & Analytics
 
 **University of Virginia**, 2020-2024
+
 B.A. Applied Statistics
+
 B.A. Global Public Health 
 
 ### 💼 Experience
