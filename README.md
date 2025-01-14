@@ -22,7 +22,7 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 • B.A. Global Public Health 
 
 ### 💼 Experience
-• **Data Management & Engineer Intern* 
+• *Data Management & Engineer Intern* 
 
 ### Projects
 • Hidden Numbers: Data Science Exploration of Factors that Influence Human Trafficking Detection and Government Response in Europe
