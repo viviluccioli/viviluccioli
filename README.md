@@ -7,7 +7,7 @@
   Data Scientist | Statistician | 
 </p>
 
-## 🧑‍🎓 About Me
+## 👩🏻‍💻 About Me
 
 I'm a M.S. student in Georgetown University's Data Science and Analytics program, enthusiastic about leveraging data science to...
 
