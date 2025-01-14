@@ -6,14 +6,12 @@
 <p align="center">
   Data Scientist | Statistician 
 </p>
-<details>
-<summary>## 🧑‍🎓 About Me</summary>
+
+## 🧑‍🎓 About Me
 
 I'm a M.S. student in Georgetown University's Data Science and Analytics program, enthusiastic about leveraging data science to...
-</details>
 
-<details>
-<summary>### 📚 Education</summary>
+### 📚 Education
 
 **Georgetown University**, 2024-2026
 - M.S. Data Science & Analytics
@@ -21,20 +19,16 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 **University of Virginia**, 2020-2024
 - B.A. Applied Statistics
 - B.A. Global Public Health
-</details>
 
-<details>
-<summary>### 💼 Projects</summary>
+### 💼 Projects
 
 - Hidden Numbers: Data Science Exploration of Factors that Influence Human Trafficking Detection and Government Response in Europe
 
 - Data vs. Dogma: Analysis of Maternal Wellness Conditions and Abortion Policy per State
 
 - Ticking Time: Modeling Lyme Disease in 2050 in U.S. Regions under the RCP 8.5 Climate Scenario
-</details>
 
-<details>
-<summary>### 🧐 Interests</summary>
+### 🧐 Interests
 
 - 💬 Computational linguistics and NLP for translation
 
@@ -45,7 +39,7 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 - 🧠 Social epidemiology and global health equity
 
 - 🌎 Human trafficking research and surveillance
-</details>
+
 
 ### 📫 Connect with me!
 😊 Feel free to reach out — I’m happy always happy to make a new connection :) [viviluccioli@gmail.com](mailto:viviluccioli@gmail.com)
