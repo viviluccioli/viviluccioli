@@ -4,7 +4,7 @@
 - 📫 How to reach me : vcl16@georgetown.edu
 
 <h1 align="center">
-  👋 Hi there! I’m Viviana
+  👋 Hey! I’m Viviana
 </h1>
 
 <p align="center">
@@ -32,12 +32,13 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 ### Projects
 
 
-### 🧐 Curiosities
-• 🧠 Passionate about integrating biomedical applications with robotics to improve human well-being.  
-• 🤖 Special Interests in Autonomous Robots, AI for Robotics, IoT.  
-• 🖨️ Enthusiastic explorer of innovative manufacturing techniques and creation physical models from digital 3d designs.  
-• 🌍 Fluent in English, Spanish and Catalan.  
-• 🤽‍♂️ 14 years of experience as a competitive water polo player.  
+### 🧐 Interests
+• 💬 Computational linguistics and NLP for translation
+• 📖 Machine learning
+• 📊 Interactive data visualization
+• 🧠 Social epidemiology and global health equity   
+• 🌎 Human trafficking research and surveillance
+
 
 ### 📫 Reach me!
 😊 Feel free to reach out — I’m happy to help! [franiriso@gmail.com](mailto:franiriso@gmail.com)
