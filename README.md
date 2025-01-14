@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Viviana Luccioli
-- 👀 I’m interested in data science, social epidemiology, biostatistics, global development
-- 🌱 I’m currently learning data science and analytics, probabilistic modeling and statistical computing, data science for climate change, and data science for biological and biomedical work
-- 📫 How to reach me : vcl16@georgetown.edu
 
 <h1 align="center">
   👋 Hey! I’m Viviana
@@ -11,7 +7,7 @@
   Data Scientist | Statistician 
 </p>
 
-## 🧑‍💻 About Me
+## 👩🏻‍💻 About Me
 
 I'm a M.S. student in Georgetown University's Data Science and Analytics program, enthusiastic about leveraging data science to 
 
@@ -26,11 +22,12 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 • B.A. Global Public Health 
 
 ### 💼 Experience
-• **Mathematics Tutor** at a science school, helping students reach their academic goals.  
-• **Embedded Developer** at Creekside AB, a Swedish startup, specializing in real-time systems development.
+• **Data Management & Engineer Intern* 
 
 ### Projects
-
+• Hidden Numbers: Data Science Exploration of Factors that Influence Human Trafficking Detection and Government Response in Europe
+• Data vs. Dogma: Analysis of Maternal Wellness Conditions and Abortion Policy per State
+• Ticking Time: Modeling Lyme Disease in 2050 in U.S. Regions under the RCP 8.5 Climate Scenario
 
 ### 🧐 Interests
 • 💬 Computational linguistics and NLP for translation
@@ -40,8 +37,8 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 • 🌎 Human trafficking research and surveillance
 
 
-### 📫 Reach me!
-😊 Feel free to reach out — I’m happy to help! [franiriso@gmail.com](mailto:franiriso@gmail.com)
+### 📫 Connect with me!
+😊 Feel free to reach out — I’m happy always happy to make a new connection :) [viviluccioli@gmail.com](mailto:viviluccioli@gmail.com)
 
 
 ## 🛠 Tech Stack & Skills
@@ -51,7 +48,7 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+
 
 ### OS
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
