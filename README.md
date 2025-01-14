@@ -30,22 +30,16 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 ### 💼 Projects
 
 - Hidden Numbers: Data Science Exploration of Factors that Influence Human Trafficking Detection and Government Response in Europe
-
 - Data vs. Dogma: Analysis of Maternal Wellness Conditions and Abortion Policy per State
-
 - Ticking Time: Modeling Lyme Disease in 2050 in U.S. Regions under the RCP 8.5 Climate Scenario
 
 
 ### 🧐 Interests
 
 - 💬 Computational linguistics and NLP for translation
-
 - 📖 Machine learning
-
 - 📊 Interactive data visualization
-
 - 🧠 Social epidemiology and global health equity
-
 - 🌎 Human trafficking research and surveillance
 
 
