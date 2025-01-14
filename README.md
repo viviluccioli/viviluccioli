@@ -44,10 +44,6 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 - 🌎 Human trafficking research and surveillance
 
 
-### 📫 Connect with me!
-😊 Feel free to reach out — I’m happy always happy to make a new connection :) [viviluccioli@gmail.com](mailto:viviluccioli@gmail.com)
-
-
 ## 🛠 Tech Stack & Skills
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
