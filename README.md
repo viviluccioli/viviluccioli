@@ -20,6 +20,13 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 - B.A. Applied Statistics
 - B.A. Global Public Health
 
+### 💻 Experience
+
+- **Research Assistant**, *AI Measurement & Development Lab*, Washington, DC
+- **Data Management & Engineer Intern**, *City of Promise*, Charlottesville, VA
+- **Research Assistant**, *World Health Organization*, Charlottesville, VA
+- **Research Assistant**, *Danish Institute of Scandinavia*, Stockholm, Sweden
+
 ### 💼 Projects
 
 - Hidden Numbers: Data Science Exploration of Factors that Influence Human Trafficking Detection and Government Response in Europe
@@ -27,6 +34,7 @@ I'm a M.S. student in Georgetown University's Data Science and Analytics program
 - Data vs. Dogma: Analysis of Maternal Wellness Conditions and Abortion Policy per State
 
 - Ticking Time: Modeling Lyme Disease in 2050 in U.S. Regions under the RCP 8.5 Climate Scenario
+
 
 ### 🧐 Interests
 
