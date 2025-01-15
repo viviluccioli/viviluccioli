@@ -4,12 +4,13 @@
 </h1>
 
 <p align="center">
-  Data Scientist | Statistician | Global Health Advocate
+  Data Scientist | Statistician | Global Health Researcher
 </p>
 
 ## 👩🏻‍💻 About Me
 
-I'm a M.S. student in Georgetown University's Data Science and Analytics program, enthusiastic about leveraging data science to...
+I'm a M.S. student in Georgetown University's Data Science and Analytics program, enthusiastic about leveraging data science for social impact. With a vast range of academic, professional and cultural experiences, I bring a unique perspective and analytical toolset to teams attempting to address complex and multifaceted problems. 
+
 
 ### 📚 Education
 
