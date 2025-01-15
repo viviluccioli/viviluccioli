@@ -1,3 +1,5 @@
 title: Viviana Luccioli
-logo: ../assets/headshot.png
+logo: assets/headshot.png
+# description: text
+show_downloads: false
 theme: jekyll-theme-minimal
