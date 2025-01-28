@@ -18,9 +18,15 @@
 
 ## For more info on me: 
 <p align="left">
-  <a href="https://www.linkedin.com/in/viviana-luccioli-45a997207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viviana-luccioli" height="30" width="40" /></a>
-  <a href="mailto:viviluccioli@gmail.com"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/viviana-luccioli-45a997207/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viviana-luccioli" height="30" width="40" />
+  </a>
+  <a href="mailto:viviluccioli@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://viviluccioli.github.io/portfolio/" target="blank">
+    <img align="center" src="https://ibb.co/Y7bYYx82" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
 
 ---
