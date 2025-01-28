@@ -25,7 +25,7 @@
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" height="30" width="40" />
   </a>
   <a href="https://viviluccioli.github.io/portfolio/" target="blank">
-    <img align="center" src="[https://ibb.co/Y7bYYx82](https://i.ibb.co/HDX11jY7/v.png)" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://i.ibb.co/HDX11jY7/v.png" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
 
