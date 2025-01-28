@@ -5,9 +5,9 @@
 
 ## ⭐ About Me ⭐
 
-- ⭐ M.S. student in Data Science and Analytics at Georgetown University
-- ⭐ 2024 graduate of the University of Virginia (B.A. Statistics + B.A. Global Public Health) 
-- ⭐ My interests in data include: 
+- M.S. student in Data Science and Analytics at Georgetown University
+- 2024 graduate of the University of Virginia (B.A. Statistics + B.A. Global Public Health) 
+- My interests in data include: 
   - 💬 Computational linguistics and NLP for translation
   - 📖 Machine learning
   - 🗺️ GIS
