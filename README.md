@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hey! I’m Viviana :) 
+  Hey! I’m Viviana 
 </h1>
 
 ## ⭐ About Me ⭐
