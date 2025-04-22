@@ -9,9 +9,7 @@
 - 2024 graduate of the University of Virginia (B.A. Statistics + B.A. Global Public Health) 
 - My interests in data include: 
   - 💬 Computational linguistics and NLP for translation
-  - 📖 Machine learning
-  - 🗺️ GIS
-  - 📊 Interactive data visualization
+  - 🗺️ Geospatial visualization
   - 🧠 Social epidemiology and global health equity
   - 🌎 Human trafficking research and surveillance
 
